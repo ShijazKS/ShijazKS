@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shijaz KS</h1>
 
 <br>
-- 🎓  I’m currently studying <b>Computer Science</b> at <a href="https://www.gecskp.ac.in">GEC Palakkad</a>
+
 
 - 🌱 I’m currently learning **MERN Stack Dev**
+-  🎓  I’m currently studying <b>Computer Science</b> at <a href="https://www.gecskp.ac.in">GEC Palakkad</a>
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ShijazKS)
 
