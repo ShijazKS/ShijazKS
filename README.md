@@ -3,14 +3,12 @@
 <br>
 
 
-- 🌱 I’m currently learning **PYTHON Dev**
 -  🎓  I’m currently studying <b>Computer Science</b> at <a href="https://www.gecskp.ac.in">GEC Palakkad</a>
 
 - 👨‍💻 All of my projects are available at [here](https://shijazks-portfolio.vercel.app/)
 
 - 📫 How to reach me **shijaz.ks@gmail.com**
 
-- ⚡ Fun fact **, I am proud of me :)**
 
 <br>
 <h3 style="margin-bottom:10px" align="left">Github Status:</h3>
