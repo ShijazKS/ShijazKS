@@ -3,7 +3,7 @@
 <br>
 
 
--  🎓  I’m currently studying <b>Computer Science</b> at <a href="https://nitc.ac.in/">NIT Calicut</a>
+-  🎓 Currently studying <b>Computer Science</b> at <a href="https://nitc.ac.in/">NIT Calicut</a>
 
 - 👨‍💻 All of my projects are available at [here](https://shijazks-portfolio.vercel.app/)
 
