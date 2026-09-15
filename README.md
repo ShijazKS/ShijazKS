@@ -3,7 +3,7 @@
 <br>
 
 
--  🎓 Currently studying <b>Computer Science</b> at <a href="https://nitc.ac.in/">NIT Calicut</a>
+-  🎓 Currently working as a <b>Junior Research Fellow (JRF)</b> at <a href="https://nitc.ac.in/">NIT Calicut</a>
 
 - 👨‍💻 All of my projects are available at [here](https://shijazks-portfolio.vercel.app/)
 
